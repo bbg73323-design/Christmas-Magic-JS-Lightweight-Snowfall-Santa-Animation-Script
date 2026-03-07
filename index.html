@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Christmas Magic JS - Demo</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #0b1426;
+            color: #ffffff;
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+            overflow: hidden;
+            background: radial-gradient(circle at center, #162a4a 0%, #0b1426 100%);
+        }
+
+        .container {
+            z-index: 10;
+            padding: 2rem;
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border-radius: 24px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+            max-width: 600px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(135deg, #ffffff 0%, #88ccff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 800;
+        }
+
+        p {
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            color: #cceeff;
+            line-height: 1.6;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 30px;
+            background: #00d4ff;
+            color: #0b1426;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(0, 212, 255, 0.3);
+        }
+
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px rgba(0, 212, 255, 0.5);
+            background: #ffffff;
+        }
+
+        .credits {
+            margin-top: 2rem;
+            font-size: 0.85rem;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        a {
+            color: #00d4ff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Christmas Magic JS</h1>
+        <p>Ultra-lightweight snowfall and Santa animation script. <br>Designed for high performance and zero lag.</p>
+        <a href="https://github.com/Anikeshsonu/christmas-magic-js" class="btn">View on GitHub</a>
+        <div class="credits">
+            Developed by Anikesh Kumar Mishra<br>
+            <a href="https://code4utech.com">CODE4UTECH CONSULTANCY PVT. LTD.</a>
+        </div>
+    </div>
+
+    <!-- Start Christmas Magic -->
+    <script src="christmas-magic.js"></script>
+</body>
+
+</html>
