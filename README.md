@@ -36,7 +36,7 @@ No HTML configuration required — just add one script and the animation starts 
 You can directly use the script via **jsDelivr CDN**.
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/Anikeshsonu/christmas-magic-js/christmas-magic.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Anikeshsonu/Christmas-Magic-JS-Lightweight-Snowfall-Santa-Animation-Script/christmas-magic.js"></script>
 ```
 
 ---
